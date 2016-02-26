@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\Debug\Design Assignment 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Design Assignment 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Design Assignment 1.map</FILE>
+  <FILE>Design Assignment 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</FILE><LINE>10</LINE></start>
+  <store25><FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</FILE><LINE>18</LINE></store25>
+  <sram_for_7><FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</FILE><LINE>29</LINE></sram_for_7>
+  <div7><FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</FILE><LINE>32</LINE></div7>
+  <add_7s><FILE>C:\Users\Boba Fett\Documents\Atmel Studio\7.0\Design Assignment 1\Design Assignment 1\main.asm</FILE><LINE>42</LINE></add_7s>
+ </LABELS>
+</ASSEMBLER_INFO>
